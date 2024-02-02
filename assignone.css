@@ -1,0 +1,2260 @@
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Add your custom styles for different sections */
+        .product-section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        .product-item {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+        }
+
+        .product-item img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .product-price {
+            font-weight: bold;
+            color: green;
+        }
+		position: absolute;
+width: 360px;
+height: 304px;
+left: 150px;
+top: 1148px;
+
+background: url(IMG_1950-300x300.png);
+position: absolute;
+height: 32px;
+left: 56.44%;
+right: 22.77%;
+top: calc(50% - 32px/2 + 52.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+text-align: center;
+text-decoration-line: line-through;
+
+color: #6B6867;
+
+
+/* Group 1002 */
+
+position: absolute;
+width: 1440px;
+height: 739px;
+left: -1px;
+top: 1763px;
+
+
+
+/* Rectangle 833 */
+
+position: absolute;
+width: 1440px;
+height: 739px;
+left: -1px;
+top: 1763px;
+
+background: #FFFFFF;
+/* Group 1001 */
+
+position: absolute;
+width: 1067px;
+height: 448.28px;
+left: 189px;
+top: 1908px;
+
+
+
+/* Group 956 */
+
+position: absolute;
+width: 403px;
+height: 448.28px;
+left: 189px;
+top: 1908px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 403px;
+left: 189px;
+top: 1930px;
+
+border: 35px solid #8CC63F;
+
+
+/* image 1 */
+
+position: absolute;
+width: 316.92px;
+height: 448.28px;
+left: 232.04px;
+top: 1908px;
+
+background: url(image.png);
+
+
+/* Group 1000 */
+
+position: absolute;
+width: 540px;
+height: 380px;
+left: 716px;
+top: 1942px;
+
+
+
+/* Sapien ac cursus scelerisque non non posuere praesent ultricies. Quam pharetra elementum dolor dolor, volutpat maecenas pellentesque nulla. Eget placerat vitae, suspendisse lectus. At massa in quis tempor integer nec nullam. Facilisis nec et, morbi enim consequat. Nunc a eu facilisis vel nulla nunc cras viverra quis orci elit vulputate. */
+
+position: absolute;
+width: 540px;
+height: 224px;
+left: 716px;
+top: 2098px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+/* or 172% */
+
+color: #7D8296;
+
+
+
+<p> We are leaders of the industry</p> 
+
+position: absolute;
+width: 423px;
+height: 131px;
+left: 716px;
+top: 1942px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 66px;
+/* or 136% */
+
+color: #172048;
+
+
+
+
+<h1>New Items in Stock!</h1>
+
+  .info {
+            position: absolute;
+            width: 360px;
+            height: 501px;
+            left: 150px;
+            top: 2736px;
+        }
+
+        /* Base */
+        .base {
+            position: absolute;
+            left: 10.42%;
+            right: 64.58%;
+            top: 37.72%;
+            bottom: 55.37%;
+            background: #FFFFFF;
+            box-shadow: 10px 22px 44px rgba(27, 29, 33, 0.06);
+        }
+
+        /* Group 934 */
+        .group-934 {
+            position: absolute;
+            width: 303px;
+            height: 139px;
+            left: 178px;
+            top: 3051px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+        }
+
+        /* Frame 936 */
+        .frame-936 {
+            width: 303px;
+            height: 139px;
+        }
+
+        /* Label */
+        .label {
+            width: 41px;
+            height: 20px;
+            font-family: 'Sora';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 20px;
+            text-align: center;
+            text-transform: uppercase;
+            color: #8CC63F;
+        }
+
+        /* Label */
+        .label-text {
+            width: 303px;
+            height: 56px;
+            font-family: 'Sora';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 18px;
+            line-height: 154%;
+            text-align: center;
+            color: #172048;
+        }
+
+        /* Group 933 */
+        .group-933 {
+            width: 165px;
+            height: 33px;
+        }
+
+        /* $63,789 */
+        .amount-1 {
+            position: absolute;
+            height: 33px;
+            left: 22.77%;
+            right: 45.87%;
+            top: calc(50% - 33px/2 + 53px);
+            font-family: 'Sora';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            line-height: 33px;
+            text-align: center;
+            letter-spacing: 0.08125px;
+            color: #172048;
+        }
+
+        /* $63,789 */
+        .amount-2 {
+            position: absolute;
+            height: 32px;
+            left: 56.44%;
+            right: 22.77%;
+            top: calc(50% - 32px/2 + 52.5px);
+            font-family: 'Sora';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 18px;
+            line-height: 32px;
+            text-align: center;
+            text-decoration-line: line-through;
+            color: #6B6867;
+        }
+		/* Group 937 */
+
+position: absolute;
+width: 360px;
+height: 501px;
+left: 930px;
+top: 2736px;
+
+
+
+/* Info */
+
+position: absolute;
+width: 360px;
+height: 501px;
+left: 930px;
+top: 2736px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 64.58%;
+right: 10.42%;
+top: 37.72%;
+bottom: 55.37%;
+
+background: #FFFFFF;
+
+
+/* Group 934 */
+
+position: absolute;
+width: 303px;
+height: 139px;
+left: 958px;
+top: 3051px;
+
+
+
+/* Frame 936 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+position: absolute;
+width: 303px;
+height: 139px;
+left: 958px;
+top: 3051px;
+
+
+
+/* Label */
+
+width: 41px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+
+color: #8CC63F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 303px;
+height: 56px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 154%;
+/* or 28px */
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 933 */
+
+width: 165px;
+height: 33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* $63,789 */
+
+position: absolute;
+height: 33px;
+left: 22.77%;
+right: 45.87%;
+top: calc(50% - 33px/2 + 53px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08125px;
+
+color: #172048;
+
+
+
+/* $63,789 */
+
+position: absolute;
+height: 32px;
+left: 56.44%;
+right: 22.77%;
+top: calc(50% - 32px/2 + 52.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+text-align: center;
+text-decoration-line: line-through;
+
+color: #6B6867;
+
+
+
+/* IMG_1950-300x300 1 */
+
+position: absolute;
+width: 360px;
+height: 304px;
+left: 930px;
+top: 2746px;
+
+background: url(IMG_1950-300x300.png);
+/* Group 944 */
+
+position: absolute;
+width: 360px;
+height: 501px;
+left: 150px;
+top: 3287px;
+
+
+
+/* Info */
+
+position: absolute;
+width: 360px;
+height: 501px;
+left: 150px;
+top: 3287px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 10.42%;
+right: 64.58%;
+top: 45.32%;
+bottom: 47.77%;
+
+background: #FFFFFF;
+
+
+/* Group 934 */
+
+position: absolute;
+width: 303px;
+height: 139px;
+left: 178px;
+top: 3602px;
+
+
+
+/* Frame 936 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+position: absolute;
+width: 303px;
+height: 139px;
+left: 178px;
+top: 3602px;
+
+
+
+/* Label */
+
+width: 41px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+
+color: #8CC63F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 303px;
+height: 56px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 154%;
+/* or 28px */
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 933 */
+
+width: 165px;
+height: 33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* $63,789 */
+
+position: absolute;
+height: 33px;
+left: 22.77%;
+right: 45.87%;
+top: calc(50% - 33px/2 + 53px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 33px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08125px;
+
+color: #172048;
+
+
+
+/* $63,789 */
+
+position: absolute;
+height: 32px;
+left: 56.44%;
+right: 22.77%;
+top: calc(50% - 32px/2 + 52.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+text-align: center;
+text-decoration-line: line-through;
+
+color: #6B6867;
+
+
+
+/* IMG_1950-300x300 1 */
+
+position: absolute;
+width: 360px;
+height: 304px;
+left: 150px;
+top: 3297px;
+
+background: url(IMG_1950-300x300.png);
+
+
+
+/* Group 975 */
+
+position: absolute;
+width: 1440px;
+height: 591px;
+left: 0px;
+top: 4463px;
+
+
+
+/* Group 974 */
+
+position: absolute;
+width: 1440px;
+height: 591px;
+left: 0px;
+top: 4463px;
+
+
+
+/* Rectangle 825 */
+
+position: absolute;
+width: 1440px;
+height: 591px;
+left: 0px;
+top: 4463px;
+
+background: #8CC63F;
+opacity: 0.2;
+
+
+/* lonely-person-walking-pathway-alabama-hills-california-with-mount-whitney 1 */
+
+position: absolute;
+width: 1440px;
+height: 591px;
+left: 0px;
+top: 4463px;
+
+background: url(lonely-person-walking-pathway-alabama-hills-california-with-mount-whitney.jpg);
+mix-blend-mode: soft-light;
+
+
+/* Group 963 */
+
+position: absolute;
+width: 777px;
+height: 322px;
+left: 331px;
+top: 4598px;
+
+
+
+/* Buy and sell your pr */
+
+position: absolute;
+height: 90px;
+left: 30.28%;
+right: 30.28%;
+top: calc(50% - 90px/2 + 1016.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+
+color: #172048;
+
+
+
+/* Field */
+
+position: absolute;
+width: 750px;
+height: 82px;
+left: 345px;
+top: 4738px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 23.96%;
+right: 23.96%;
+top: 65.32%;
+bottom: 33.54%;
+
+background: #FFFFFF;
+box-shadow: 10px 22px 44px rgba(27, 29, 33, 0.06);
+
+
+/* Button */
+
+position: absolute;
+left: 65.97%;
+right: 24.65%;
+top: 65.46%;
+bottom: 33.68%;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #8CC63F;
+
+
+/* Label */
+
+position: absolute;
+height: 23px;
+left: 26.3%;
+right: 26.3%;
+top: calc(50% - 23px/2 - 0.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Label */
+
+position: absolute;
+height: 20px;
+left: 26.04%;
+right: 62.99%;
+top: calc(50% - 20px/2 + 1152.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #6B6867;
+
+
+
+/* Group 973 */
+
+position: absolute;
+width: 777px;
+height: 50px;
+left: 331px;
+top: 4870px;
+
+
+
+/* Frame 954 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 100px;
+height: 50px;
+left: 331px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.25);
+
+
+/* Label */
+
+width: 58px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 955 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 100px;
+height: 50px;
+left: 446px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 58px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 956 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 108px;
+height: 50px;
+left: 561px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 66px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 957 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 102px;
+height: 50px;
+left: 684px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 60px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 958 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 78px;
+height: 50px;
+left: 801px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 36px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 959 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 93px;
+height: 50px;
+left: 894px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 51px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 960 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 21px;
+gap: 10px;
+
+position: absolute;
+width: 106px;
+height: 50px;
+left: 1002px;
+top: 4870px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 1px solid rgba(23, 32, 72, 0.21);
+
+
+/* Label */
+
+width: 64px;
+height: 20px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #172048;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 978 */
+
+position: absolute;
+width: 1440px;
+height: 624px;
+left: 0px;
+top: 5054px;
+
+
+
+/* Rectangle 820 */
+
+position: absolute;
+width: 1440px;
+height: 624px;
+left: 0px;
+top: 5054px;
+
+background: #FFFFFF;
+
+
+/* Group 977 */
+
+position: absolute;
+width: 1029px;
+height: 464px;
+left: 227px;
+top: 5134px;
+
+
+
+/* Group 955 */
+
+position: absolute;
+width: 507px;
+height: 333.45px;
+left: 749px;
+top: 5199px;
+
+
+
+/* Frame 924 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 37px;
+gap: 10px;
+
+position: absolute;
+width: 160px;
+height: 59px;
+left: 749px;
+top: 5473.45px;
+
+background: #8CC63F;
+
+
+/* Abous Us */
+
+width: 86px;
+height: 23px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Delta Life's Mixed Fruit Delta 9 Gummies */
+
+position: absolute;
+width: 446px;
+height: 90.15px;
+left: 749px;
+top: 5199px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+
+color: #172048;
+
+
+
+/* We’re huge fans of this new gummy and think it was well worth the wait! 25mg per gummy, made in the USA. Mixed fruit flavor. */
+
+position: absolute;
+width: 507px;
+height: 104.17px;
+left: 749px;
+top: 5329.21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+/* or 172% */
+
+color: #7D8296;
+
+
+
+/* Group 976 */
+
+position: absolute;
+width: 370px;
+height: 464px;
+left: 227px;
+top: 5134px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 370px;
+height: 371px;
+left: 227px;
+top: 5190px;
+
+border: 43px solid #8CC63F;
+
+
+/* IMG_1861-600x600 1 */
+
+position: absolute;
+width: 298px;
+height: 464px;
+left: 263px;
+top: 5134px;
+
+background: url(.png);
+
+    </style>
+</head>
+<body>
+
+
+
+<section class="youtube-videos">
+/* Group 994 */
+
+position: absolute;
+width: 1440px;
+height: 610px;
+left: 0px;
+top: 5678px;
+
+
+
+/* Rectangle 830 */
+
+position: absolute;
+width: 1440px;
+height: 610px;
+left: 0px;
+top: 5678px;
+
+background: #FAFAFA;
+
+
+/* Group 981 */
+
+position: absolute;
+width: 1140px;
+height: 350px;
+left: 150px;
+top: 5808px;
+
+
+
+/* Our youtube videos */
+
+position: absolute;
+width: 369px;
+height: 45px;
+left: 535px;
+top: 5808px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+text-transform: capitalize;
+
+color: #172048;
+
+
+
+/* Group 980 */
+
+position: absolute;
+width: 1140px;
+height: 254px;
+left: 150px;
+top: 5904px;
+
+
+
+/* Rectangle 826 */
+
+position: absolute;
+width: 360px;
+height: 254px;
+left: 150px;
+top: 5904px;
+
+background: url(.jpg), #C4C4C4;
+
+
+/* Rectangle 827 */
+
+position: absolute;
+width: 360px;
+height: 254px;
+left: 540px;
+top: 5904px;
+
+background: url(.jpg), #C4C4C4;
+
+
+/* Rectangle 828 */
+
+position: absolute;
+width: 360px;
+height: 254px;
+left: 930px;
+top: 5904px;
+
+background: url(.jpg), #C4C4C4;
+
+</section>
+
+<section class="google-reviews">
+    /* Group 993 */
+
+position: absolute;
+width: 1440px;
+height: 558px;
+left: 0px;
+top: 6288px;
+
+
+
+/* Rectangle 829 */
+
+position: absolute;
+width: 1440px;
+height: 558px;
+left: 0px;
+top: 6288px;
+
+background: #FFFFFF;
+
+
+/* Group 992 */
+
+position: absolute;
+width: 1239px;
+height: 329px;
+left: 100px;
+top: 6403px;
+
+
+
+/* Customer Testimonial */
+
+position: absolute;
+height: 45px;
+left: 34.72%;
+right: 34.86%;
+top: calc(50% - 45px/2 + 2799px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+text-transform: capitalize;
+
+color: #172048;
+
+
+
+/* Group 991 */
+
+position: absolute;
+width: 1239px;
+height: 233px;
+left: 100px;
+top: 6499px;
+
+
+
+/* Group 988 */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 100px;
+top: 6499px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 100px;
+top: 6499px;
+
+background: #FAFAFA;
+
+
+/* Group 986 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 135px;
+top: 6534px;
+
+
+
+/* Group 987 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 135px;
+top: 6534px;
+
+
+
+/* “Lorem ipsum is typi */
+
+position: absolute;
+width: 313px;
+height: 100px;
+left: 135px;
+top: 6534px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+color: #1B1D21;
+
+
+
+/* Group 985 */
+
+position: absolute;
+width: 313px;
+height: 43px;
+left: 135px;
+top: 6654px;
+
+
+
+/* google-logo-9808 1 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 416px;
+top: 6660px;
+
+background: url(google-logo-9808);
+
+
+/* Group 984 */
+
+position: absolute;
+width: 181px;
+height: 43px;
+left: 135px;
+top: 6654px;
+
+
+
+/* Insert your image here */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 135px;
+top: 6655px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 135px;
+top: 6655px;
+
+background: url(image);
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 135px;
+top: 6655px;
+
+background: #D8D8D8;
+border: 23px solid #000000;
+
+
+/* Group 983 */
+
+position: absolute;
+width: 129px;
+height: 43px;
+left: 187px;
+top: 6654px;
+
+
+
+/* Marketing Specialist */
+
+position: absolute;
+height: 20px;
+left: 12.99%;
+right: 78.06%;
+top: calc(50% - 20px/2 + 3037.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #8D8E90;
+
+
+
+/* Group 982 */
+
+position: absolute;
+width: 100px;
+height: 20px;
+left: 187px;
+top: 6677px;
+
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 187px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 207px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 227px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 247px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 267px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* Group 989 */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 521px;
+top: 6499px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 521px;
+top: 6499px;
+
+background: #FAFAFA;
+
+
+/* Group 986 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 556px;
+top: 6534px;
+
+
+
+/* Group 987 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 556px;
+top: 6534px;
+
+
+
+/* “Lorem ipsum is typi */
+
+position: absolute;
+width: 313px;
+height: 100px;
+left: 556px;
+top: 6534px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+color: #1B1D21;
+
+
+
+/* Group 985 */
+
+position: absolute;
+width: 313px;
+height: 43px;
+left: 556px;
+top: 6654px;
+
+
+
+/* google-logo-9808 1 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 837px;
+top: 6660px;
+
+background: url(google-logo-9808);
+
+
+/* Group 984 */
+
+position: absolute;
+width: 181px;
+height: 43px;
+left: 556px;
+top: 6654px;
+
+
+
+/* Insert your image here */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 556px;
+top: 6655px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 556px;
+top: 6655px;
+
+background: url(image);
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 556px;
+top: 6655px;
+
+background: #D8D8D8;
+border: 23px solid #000000;
+
+
+/* Group 983 */
+
+position: absolute;
+width: 129px;
+height: 43px;
+left: 608px;
+top: 6654px;
+
+
+
+/* Marketing Specialist */
+
+position: absolute;
+height: 20px;
+left: 42.22%;
+right: 48.82%;
+top: calc(50% - 20px/2 + 3037.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #8D8E90;
+
+
+
+/* Group 982 */
+
+position: absolute;
+width: 100px;
+height: 20px;
+left: 608px;
+top: 6677px;
+
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 608px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 628px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 648px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 668px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 688px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* Group 990 */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 942px;
+top: 6499px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 397px;
+height: 233px;
+left: 942px;
+top: 6499px;
+
+background: #FAFAFA;
+
+
+/* Group 986 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 977px;
+top: 6534px;
+
+
+
+/* Group 987 */
+
+position: absolute;
+width: 313px;
+height: 163px;
+left: 977px;
+top: 6534px;
+
+
+
+/* “Lorem ipsum is typi */
+
+position: absolute;
+width: 313px;
+height: 100px;
+left: 977px;
+top: 6534px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+color: #1B1D21;
+
+
+
+/* Group 985 */
+
+position: absolute;
+width: 313px;
+height: 43px;
+left: 977px;
+top: 6654px;
+
+
+
+/* google-logo-9808 1 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1258px;
+top: 6660px;
+
+background: url(google-logo-9808);
+
+
+/* Group 984 */
+
+position: absolute;
+width: 181px;
+height: 43px;
+left: 977px;
+top: 6654px;
+
+
+
+/* Insert your image here */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 977px;
+top: 6655px;
+
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 977px;
+top: 6655px;
+
+background: url(image);
+
+
+/* Base */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 977px;
+top: 6655px;
+
+background: #D8D8D8;
+border: 23px solid #000000;
+
+
+/* Group 983 */
+
+position: absolute;
+width: 129px;
+height: 43px;
+left: 1029px;
+top: 6654px;
+
+
+
+/* Marketing Specialist */
+
+position: absolute;
+height: 20px;
+left: 71.46%;
+right: 19.58%;
+top: calc(50% - 20px/2 + 3037.5px);
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+
+color: #8D8E90;
+
+
+
+/* Group 982 */
+
+position: absolute;
+width: 100px;
+height: 20px;
+left: 1029px;
+top: 6677px;
+
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1029px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1049px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1069px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1089px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+
+/* ant-design:star-filled */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1109px;
+top: 6677px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.64%;
+right: 8.65%;
+top: 6.67%;
+bottom: 14.35%;
+
+background: #FFCE31;
+
+</section>
+
+<section class="company-info">
+    /* Base */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+Lorem ipsum is typically a corrupted version of 'De finibus bonorum et malorum', a 1st century BC
+background: #171717;
+
+</section>
+
+<!-- Footer -->
+<footer>
+    /* Text */
+
+position: absolute;
+height: 198px;
+left: 38.54%;
+right: 55.83%;
+top: calc(50% - 198px/2 + 24.5px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+Company
+About us
+
+Career
+
+Blog
+
+Rent Guides
+
+Pricing
+
+Demo
+
+color: #FFFFFF;
+
+Support
+Help Center
+
+Contact us
+
+Terms & Condition
+
+Sitemap
+
+Feedback
+
+Media
+Facebook
+
+Twitter
+
+YouTube
+
+Instagram
+
+Subscribe Us
+/* Base */
+
+position: absolute;
+left: 1066px;
+right: 150px;
+top: 127px;
+bottom: 232px;
+
+background: #B3BAC5;
+mix-blend-mode: normal;
+opacity: 0.1;
+<label>Your email here..</label>
+
+/* Fill */
+
+position: absolute;
+left: 1066.5px;
+right: 149.5px;
+top: 187px;
+bottom: 172px;
+
+background: #FFFFFF;
+<label>Subscribe</label>
+</footer>
